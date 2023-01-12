@@ -1,4 +1,4 @@
-# Stock-price-prediction
+# Extracting and exploring stock data using yfinance
 This project is to extract financial historical data of tesla, amazon , AMD, Game stop and predict
 
 
